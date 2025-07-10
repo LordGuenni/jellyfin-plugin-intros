@@ -12,7 +12,7 @@
         "changelog": "Added Current Date Filter and Add-All button",
         "targetAbi": "10.10.7.0",
         "sourceUrl": "https://github.com/LordGuenni/jellyfin-plugin-intros/releases/download/v5/local-intros_4.0.0.0.zip",
-        "checksum": "071b1520b7eeef24651a9f0cd94945dab642d416fecd29b3b4f4931ba5098596",
+        "checksum": "32481911fe162ce6ac097bce8a0dffd2",
         "timestamp": "2025-07-10T00:00:00Z"
       }
     ]
