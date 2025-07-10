@@ -5,7 +5,7 @@
     "overview": "Display flashy intros before movies and other videos",
     "description": "Select a flashy video from the prerolls.video discord to run before any video content.",
     "owner": "LordGuenni",
-    "category": "Other",
+    "category": "MoviesAndShows",
     "versions": [
       {
         "version": "4.0.0.0",
